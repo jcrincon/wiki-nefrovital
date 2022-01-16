@@ -11,4 +11,6 @@ tags:
 - docusaurus
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Estabamos probando una manera bonita de decir que te quiero
+
+Este es el proceso que quisiera que sepas
